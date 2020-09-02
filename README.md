@@ -2,6 +2,7 @@
 
 ## Getting Started
 
-![Image of Home Screen](assets/home.png)
+<img src="assets/home.png" width="200" height="400" /> <img src="assets/card.png" width="200" height="400" />
 
-![Image of Card Screen](assets/card.png)
+
+
